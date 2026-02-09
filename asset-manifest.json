@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/builtbrush/static/css/main.a13a7247.css",
+    "main.js": "/builtbrush/static/js/main.c074a713.js",
+    "index.html": "/builtbrush/index.html",
+    "main.a13a7247.css.map": "/builtbrush/static/css/main.a13a7247.css.map",
+    "main.c074a713.js.map": "/builtbrush/static/js/main.c074a713.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a13a7247.css",
+    "static/js/main.c074a713.js"
+  ]
+}
