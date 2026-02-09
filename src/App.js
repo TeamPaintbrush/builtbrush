@@ -249,7 +249,7 @@ function App() {
           {/* Profile Image - Full Card */}
           <div className="absolute inset-0 flex items-center justify-center pt-8">
             <img 
-              src="/images/BuiltBrush454.png" 
+              src={`${process.env.PUBLIC_URL}/images/BuiltBrush454.png`}
               alt="Profile" 
               className="w-64 h-64 object-cover object-center opacity-90"
               style={{ mixBlendMode: 'multiply' }}
